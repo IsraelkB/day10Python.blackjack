@@ -1,5 +1,5 @@
 # day10Python.blackjack
-blackjack game- you play against the computer
+blackjack game- you play against the computer.
 
 Blackjack is a casino banking game.
 It is the most widely played casino banking game in the world. 
